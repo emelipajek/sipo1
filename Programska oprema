@@ -1,0 +1,23 @@
+Kaj je OS?
+OS je krajšava za operacijski sistem, ki je tisti nepogrešljivi del sistemske programske opreme brez katere računalnik ne bi deloval.
+
+3 naloge OS 
+Upravljanje s procesi, upravljanje z glavnim pomnilnikom in upravljanje z datotečnimi sistemi.
+
+WIN/Linux/macOS razlike
+Windows in macOS imata zaprto kodo, ni dostopna javnosti, Linux pa je odprtokoden in lahko vsak spreminja in prilagaja kodo. MacOS je posebaj prilagojen za Apple naprave, Windows je namenjen začetnikom in je zelo enostaven za uorabo, Linux pa je zlahka prilagodljiv in ima več različic.
+
+Kaj pomeni, da se "naloži ob zagonu?"
+Ob zagonu se operacijski sistem naloži na pomnilnik oz. RAM.
+
+Kaj je gonilnik?
+Je programska oprema, ki služi za komunikacijo med strojno opremo in operacijskim sistemom.
+
+Kje ga potrebujemo?
+Pri vsaki napravi, ki jo priključimo na računalnik npr. tiskalnik,USB,tipkovnica. Gonilniki znajo "Štekati" in ne delujejo pravilno še posebaj pri tiskalnikih.
+
+HDD vs SSD
+HDD-ji so bolj občutjivi na premike, so glasnejši, uporabljajo magnetni boben in iglo za zapisovanje podatkov, so bistveno cenejši ampak počasnejši. SSD-ji so na drugi roki hitrejši, tišji, manjši, vendar so dražji.
+
+Kaj je particija?
+Je logična razdelitev diska (HDD ali SSD) na več neodvisnih shranjevalnih enot. Omogoča da operacijski sistem en fizični disk obravnava kot več ločenih pogonov, kar izboljša organizacijo podatkov, omogoča namestitev več operacijskih sistemov, ...
